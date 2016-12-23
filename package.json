@@ -1,0 +1,11 @@
+{
+  "name": "odss.io.api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odss/io.api.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
